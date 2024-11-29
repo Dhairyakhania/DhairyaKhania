@@ -1,10 +1,10 @@
-##👋 Hi there! I'm a passionate and aspiring Machine Learning enthusiast currently pursuing my M.Tech. in Artificial Intelligence.
+Hi there! I'm Dhairya Khania a passionate and aspiring Machine Learning enthusiast currently pursuing my M.Tech. in Artificial Intelligence.
 
 🚀 My journey in ML is driven by a strong interest in data analysis, predictive modeling, and artificial intelligence. I'm continuously learning and exploring the exciting world of algorithms, deep learning, and data science.
 
 🌱 I’m currently learning deep learning,computer vision and LLMs.
 
-🔭 I’m currently working on cafeteria managemnet using object detection.
+🔭 I’m currently working on Cafeteria Managemnet using Video Analytics.
 
 💻 I'm always excited to collaborate on open-source projects, contribute to research, and apply my knowledge to solve real-world problems!
 
