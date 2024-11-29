@@ -1,4 +1,14 @@
-## Hi there 👋
+##👋 Hi there! I'm a passionate and aspiring Machine Learning enthusiast currently pursuing my M.Tech. in Artificial Intelligence.
+
+🚀 My journey in ML is driven by a strong interest in data analysis, predictive modeling, and artificial intelligence. I'm continuously learning and exploring the exciting world of algorithms, deep learning, and data science.
+
+🌱 I’m currently learning deep learning,computer vision and LLMs.
+
+🔭 I’m currently working on cafeteria managemnet using object detection.
+
+💻 I'm always excited to collaborate on open-source projects, contribute to research, and apply my knowledge to solve real-world problems!
+
+Feel free to check out my repositories for projects, experiments, and code snippets. Let's connect and build something amazing together! 😊
 
 <!--
 **Dhairyakhania/DhairyaKhania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
